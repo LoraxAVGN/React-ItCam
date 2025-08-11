@@ -9,6 +9,7 @@ const App = () => {
             <Header />
             <Navbar />
             <Profile />
+            afsddfd
         </div>
     );
 }
